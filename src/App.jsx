@@ -56,7 +56,7 @@ function App() {
       </Container>
       <Container className='px-0 mx-0 pt-5' fluid>
         <div className='w-100 footer d-flex justify-content-center mx-0 px-0'>
-          <p className='my-auto text-white text-center' ><a href='/..'>Website Templates</a>created with <a href='#'>Website Builder Software.</a></p>
+          <p className='my-auto text-white text-center' ><a href='./assets/img/bg-image.jpg'>Website Templates</a>created with <a href='#'>Website Builder Software.</a></p>
         </div>
       </Container>
     </Fragment>
